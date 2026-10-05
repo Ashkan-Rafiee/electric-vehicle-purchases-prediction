@@ -56,10 +56,12 @@ Best XGBoost parameters: `max_depth=6`, `learning_rate=0.2`, `subsample=1.0`, `c
 ## Getting started
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone <https://github.com/Ashkan-Rafiee/electric-vehicle-purchases-prediction/tree/main>
+cd <electric-vehicle-purchases-prediction>
 
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost jupyter
+
+mkdir -p outputs
 
 jupyter notebook electric-vehicle-purchases.ipynb
 ```

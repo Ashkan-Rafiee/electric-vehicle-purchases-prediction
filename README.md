@@ -6,7 +6,8 @@ Predicting how likely a person is to buy an electric vehicle (`Will_Buy_EV`) fro
 
 ## Dataset
 
-The data comes from the Kaggle competition [Playground Series S6E9](https://www.kaggle.com/competitions/playground-series-s6e9) and is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Unmodified copies of `train.csv` and `test.csv` are included in the [`data/`](data/) folder, so there is nothing to download.
+The data comes from the Kaggle competition [Playground Series S6E9](https://www.kaggle.com/competitions/playground-series-s6e9) and is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+Unmodified copies of `train.csv` and `test.csv` are included in the [`data/`](data/) folder, so there is nothing to download.
 The training set has **668,665 rows** and **15 columns**, with no missing values.
 
 | Type | Features |
